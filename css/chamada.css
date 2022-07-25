@@ -23,13 +23,21 @@ main{
     border-radius: 8px;
 }
 main > button{
+    float: left;
+}
+.btn-padrao{
     background-color: var(--cor-neutra-escura);
     color: var(--cor-neutra-clara);
     font-weight: bolder;
     padding: 0.5em;
     border-radius: 8px;
-    float: left;
 }
 table{
     width: 100%;
+}
+.modal-content{
+    background-color: var(--cor-primaria-clara);
+}
+.modal-header{
+    background-color: var(--cor-primaria-escura);
 }
