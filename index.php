@@ -43,7 +43,7 @@
             <tbody id="dados">
                 <tr>
                     <td>
-                        Marcelo Figueiredo Barbosa Júnior
+                        Joadson Ferreira do Nascimento
                     </td>
                     <td>X</td>
                     <td>X</td>
@@ -54,7 +54,7 @@
                 </tr>
                 <tr>
                     <td>
-                        Ana Carolina Mattiuci Figueiredo
+                        Terezinha Balbino da Silva
                     </td>
                     <td>X</td>
                     <td>X</td>
